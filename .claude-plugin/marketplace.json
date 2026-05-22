@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agentic-dev-kit",
+  "version": "1.0.0",
+  "description": "Multi-agent system for structured software delivery.",
+  "owner": {
+    "name": "KoriSeng",
+    "url": "https://github.com/KoriSeng"
+  },
+  "plugins": [
+    {
+      "name": "agentic-dev-kit",
+      "version": "1.0.0",
+      "description": "Three-cell multi-agent system — Development, Delivery Engineering, and QA.",
+      "source": "./plugins/agentic-dev-kit",
+      "category": "development"
+    }
+  ]
+}

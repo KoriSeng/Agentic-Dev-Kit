@@ -1,0 +1,9 @@
+{
+  "name": "agentic-dev-kit",
+  "version": "1.0.0",
+  "description": "A multi-agent system for structured software delivery. Three specialised cells — Development, Delivery Engineering, and QA — with explicit handoffs and cell governance.",
+  "author": {
+    "name": "KoriSeng"
+  },
+  "license": "MIT"
+}
